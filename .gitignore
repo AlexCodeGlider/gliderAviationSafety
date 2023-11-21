@@ -1,6 +1,5 @@
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # Visual Studio Code project file
 .vscode/
